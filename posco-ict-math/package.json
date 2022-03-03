@@ -1,15 +1,12 @@
 {
-  "name": "project-ex02",
+  "name": "posco-ict-math",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "posco-ict-math.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "posco-ict-math": "file:../posco-ict-math"
-  }
+  "license": "ISC"
 }
