@@ -41,8 +41,11 @@ Node Practices
 6. npmjs.com(npm registry)에 내 패키지 배포(생략)
 
 
-7. helloweb-ex01 (맨바닥)
+7. helloweb-ex01 : 웹 애플리케이션 만들어보기 (express 프레임워크 x)
+    - 1) app01 : http : core module 기반
+    - 2) app02 : http, fs : core module 기반
+    - 3) app03 : connect, serve-static : npm package 기반
+    - 4) app04 : connect, serve-static, connect-route : npm package 기반
 
-
-8. helloweb-ex02 (express)
+8. helloweb-ex02 : 웹 애플리케이션 만들어보기 (express 프레임워크 o)
 
